@@ -1,7 +1,12 @@
 # frozen_string_literal: true
-
 source "https://rubygems.org"
-gem "kramdown-parser-gfm"
-gemspec
 
+gem "jekyll", "~> 3.9"
+gem "kramdown-parser-gfm", "~> 1.1.0"
+gem "jekyll-paginate", "~> 1.1.0"
+gem "phantom", git: "https://github.com/jamigibbs/phantom"
+
+group :jekyll_plugin do
+  gem "jekyll-remote-theme", "~> 0.4.2"
+end
 gem "webrick", "~> 1.8"
