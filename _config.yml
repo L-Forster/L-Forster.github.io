@@ -17,7 +17,7 @@ title: "Welcome to Louis Forster's Portfolio."
 email: 'louisforster64@gmail.com'
 description: "I'm a full-time student based in Bristol."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://l-forster.github.io/home" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://l-forster.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 github_username: 'L-Forster'
 linkedin_username: 'in/louis-forster-619999264/'
