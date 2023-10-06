@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
+title: 'Running Platformer Game'
 date: 2016-02-20 14:15:00
 categories: development
-tags: JavaScript AngularJS Sass Grunt
+tags: Python Pygame 
 featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+project_link: 'https://github.com/L-Forster/shadow-jumper-game'
 button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+button_text: 'Source Code'
+lead_text: 'A platformer game made using Pygame with custom sprites and soundtrack. This was made in collaboration with the popular book series "Shadow Jumper"!'
 ---
