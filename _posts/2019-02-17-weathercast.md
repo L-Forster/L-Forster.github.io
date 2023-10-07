@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Music streaming service'
 date: 2021-02-20 15:56:00
 categories: development

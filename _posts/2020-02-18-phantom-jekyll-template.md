@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Lyric Finder'
 date: 2018-10-06 00:00:00
 categories: development

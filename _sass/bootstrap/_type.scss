@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Open Sans";
   font-weight: $headings-font-weight;
   line-height: $headings-line-height;
-  color: #4D4D75;
+  color: #39394f;
 
   small,
   .small {
@@ -119,14 +119,14 @@ mark,
 .bg-primary {
   // Given the contrast here, this is the only class to have its color inverted
   // automatically.
-  color: #fff;
+  color: #ffffff;
 }
 @include bg-variant('.bg-primary', $brand-primary);
 
 @include bg-variant('.bg-success', $state-success-bg);
 
 @include bg-variant('.bg-info', $state-info-bg);
-
+    
 @include bg-variant('.bg-warning', $state-warning-bg);
 
 @include bg-variant('.bg-danger', $state-danger-bg);
