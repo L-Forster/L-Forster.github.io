@@ -2,10 +2,10 @@
 layout: inner
 position: left
 title: 'Lyric Finder'
-date: 2016-02-20 15:56:00
+date: 2018-10-06 00:00:00
 categories: development
 tags: Python Scraping BS4
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+featured_image: '/img/posts/lyrics.png'
 project_link: 'https://github.com/L-Forster/lyric-finder'
 button_icon: 'github'
 button_text: 'Source Code'

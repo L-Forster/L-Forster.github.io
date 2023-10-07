@@ -2,10 +2,10 @@
 layout: inner
 position: right
 title: 'Music streaming service'
-date: 2016-02-20 15:56:00
+date: 2021-02-20 15:56:00
 categories: development
 tags: Python Beeware RaspberryPi Bluetooth
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+featured_image: '/img/posts/musicstream.png'
 project_link: ''
 button_icon: 'github'
 button_text: 'Source Code'

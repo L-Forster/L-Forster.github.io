@@ -20,7 +20,7 @@ $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
 %opensans { font-family: 'Open Sans', sans-serif; }
-%merriweather { font-family: 'Merriweather', serif; }
+%merriweather { font-family: 'Open Sans', sans-serif; }
 
 /*--------------------------------------------------------------
 	1.0 Defaults
@@ -33,13 +33,13 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  background-color: #ECECF6;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @extend %merriweather;
+  @extend %opensans;
   font-weight: 700;
 }
 
@@ -88,7 +88,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color:   #ffffff;
+  background-color:   #ECECF6;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {

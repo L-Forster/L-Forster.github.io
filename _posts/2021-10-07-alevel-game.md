@@ -2,10 +2,10 @@
 layout: inner
 position: right
 title: 'Procedurally generated game'
-date: 2016-02-20 15:56:00
+date: 2022-10-06 00:00:00
 categories: development
 tags: Python Pygame
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+featured_image: '/img/posts/alevel.png'
 project_link: 'https://github.com/L-Forster/ALevel-Project'
 button_icon: 'github'
 button_text: 'Source Code'
