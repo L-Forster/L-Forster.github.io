@@ -4,7 +4,7 @@ position: left
 title: 'Procedurally generated game'
 date: 2022-10-06 00:00:00
 categories: development
-tags: Python Pygame UI
+tags: Python Pygame UI Coursework
 featured_image: '/img/posts/alevel.png'
 project_link: 'https://github.com/L-Forster/ALevel-Project'
 button_icon: 'github'
