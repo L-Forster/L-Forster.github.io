@@ -1,10 +1,10 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Music streaming service'
 date: 2021-02-20 15:56:00
 categories: development
-tags: Python Beeware RaspberryPi Bluetooth
+tags: Python Beeware RaspberryPi Bluetooth BlueZ App
 featured_image: '/img/posts/musicstream.png'
 project_link: ''
 button_icon: 'github'

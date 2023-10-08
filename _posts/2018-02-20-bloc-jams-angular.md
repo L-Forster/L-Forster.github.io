@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Running Platformer Game'
 date: 2020-10-06 00:00:00
 categories: development
