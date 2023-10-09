@@ -1,0 +1,12 @@
+Changes to portfolio website:
+- Change Header font X
+- Generate Colour scheme (using Adobe)
+- Add pictures of projects. X
+- Figure out gifs / animations to add pizazz.
+- Just make it look less like a template. X
+- Create a Louis Forster Logo (LF but fast). X
+- Upload website icon + logo. X
+
+o7
+
+change footer color
