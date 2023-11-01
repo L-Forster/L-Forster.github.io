@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: left
-title: 'Reddit Sentiment Analysis for Mental Disorders'
-date: 2024-10-06 00:00:00
+position: right
+title: 'Lyric Finder'
+date: 2018-10-06 00:00:00
 categories: development
-tags: Python scikit-learn KivyMD WebScraping NLP
+tags: Python Scraping BS4
 featured_image: '/img/posts/lyrics.png'
-project_link: 'https://github.com/L-Forster/RedditMentalDisorders'
+project_link: 'https://github.com/L-Forster/lyric-finder'
 button_icon: 'github'
 button_text: 'Source Code'
-lead_text: 'A program which scrapes data from certain mental disorder subreddits and builds a sentiment analysis model.The user can input a Reddit username and it will output a graph showing the probabilities of them having the disorders'
+lead_text: "When run, it will scrape for all the specified artist's songs, create a text file, then add the lyrics to that file. WIP: A frontend which allows you to search for a song that you have stored, select it, then shows the lyrics."
 ---
